@@ -84,8 +84,5 @@ bad_label_cols = list(set(object_cols)-set(good_label_cols))
 
 ## 📝 Autor
 
-[Tu Nombre]
+Ronald Vilcas
 
-## 📄 Licencia
-
-Este proyecto está licenciado bajo [MIT License](LICENSE).
